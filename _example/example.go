@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "Enum"
+	. "e_array"
 	"fmt"
 )
 
