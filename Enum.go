@@ -1,4 +1,4 @@
-package Enum
+package e_array
 
 import (
 	"strconv"
